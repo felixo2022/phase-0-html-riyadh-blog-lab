@@ -21,12 +21,12 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(122, 65, 84, 0.85);
 }
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: rgb(81, 117, 58);
 }
 
 h1 {
@@ -35,12 +35,12 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em;
-  margin-top: .5em;
+  font-size: 2.5em;
+  margin-top: .8em;
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: '''Times New Roman', Times, serif;
   font-size: 1.5em;
   margin-top: .5em;
 }
@@ -52,16 +52,16 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: large;
 }
 
 a {
-  color: black;
-  text-decoration: none;
+  color: rgb(85, 53, 145);
+  text-decoration: teal;
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: indigo;
 }
 
 @media only screen and (max-width: 1042px) {
@@ -83,4 +83,4 @@ a:hover {
   .wrapper {
     width: 95%;
   }
-}
+}style.css
